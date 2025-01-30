@@ -73,3 +73,10 @@ for (let i = 0; i < meses.length; i++) {
     `);
 }
  */
+
+const numerosOrdenador = (array) => {
+  return array.sort((a, b) => a - b);
+};
+
+const numeros = [1, 5, 20, 55, 12, 31, 33, 36, 5, 40, 50];
+console.log(numerosOrdenador(numeros));
