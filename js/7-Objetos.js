@@ -59,7 +59,6 @@ for (let index = 0; index < claves.length; index++) {
   }
 });
  */
-//Object.values - Object.entries - investigar
 
 const auto = {
   marca: "Fiat",
@@ -140,6 +139,9 @@ B - baja
 M - modificacion
 
 */
+
+//Tarea e investigacion
+//Object.values - Object.entries - investigar
 
 /* 
 📝 Ejercicio: CRUD de Productos
